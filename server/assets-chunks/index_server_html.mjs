@@ -1,10 +1,9 @@
 export default `<!doctype html>
 
 <html lang="en">
-<head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><base href="/Portfolio2/">
   <meta charset="utf-8">
   <title>Giriprasath | Portfolio</title>
-  <base href="/Portfolio2/">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="logo.png">
